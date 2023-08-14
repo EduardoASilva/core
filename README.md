@@ -1,2 +1,2 @@
 # core
-Base Project Dajngo
+Base Project Django
