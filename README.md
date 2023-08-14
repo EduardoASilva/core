@@ -1,0 +1,2 @@
+# core
+Base Project Dajngo
